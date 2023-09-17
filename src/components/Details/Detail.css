@@ -1,0 +1,9 @@
+.details{
+    background-color: rgb(231, 231, 181);
+    width: 500px;
+    height: 350px;
+    position: absolute;
+    top: 150px;
+    left: 450px;
+    z-index: 3;
+}
